@@ -98,7 +98,7 @@ Search system with card images.
 <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord"/>
 </a>
 
-<a href="https://LEBRONGOAT2323.github.io/contact.html">
+<a href="https://lebrongoat2323.github.io/LEBRONGOAT2323/contact.html">
 <img src="https://img.shields.io/badge/Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
