@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Contact Me</title>
+
+<style>
+
+body{
+background:#0d1117;
+font-family:Arial;
+color:white;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+margin:0;
+}
+
+.container{
+background:#161b22;
+padding:40px;
+border-radius:12px;
+width:350px;
+box-shadow:0 0 25px rgba(0,255,150,0.2);
+}
+
+h1{
+text-align:center;
+margin-bottom:20px;
+}
+
+input, textarea{
+width:100%;
+padding:10px;
+margin-top:10px;
+background:#0d1117;
+border:1px solid #30363d;
+border-radius:6px;
+color:white;
+}
+
+input:focus, textarea:focus{
+outline:none;
+border-color:#00ff88;
+box-shadow:0 0 5px #00ff88;
+}
+
+textarea{
+resize:none;
+height:100px;
+}
+
+button{
+margin-top:15px;
+width:100%;
+padding:12px;
+background:#238636;
+border:none;
+border-radius:6px;
+font-weight:bold;
+color:white;
+cursor:pointer;
+transition:0.2s;
+}
+
+button:hover{
+background:#2ea043;
+box-shadow:0 0 10px #2ea043;
+}
+
+.social{
+margin-top:20px;
+text-align:center;
+}
+
+.social a{
+text-decoration:none;
+margin:5px;
+display:inline-block;
+padding:8px 12px;
+background:#21262d;
+border-radius:6px;
+color:white;
+font-size:14px;
+}
+
+.social a:hover{
+background:#30363d;
+}
+
+</style>
+</head>
+
+<body>
+
+<form action="https://formspree.io/f/xeerogob" method="POST">
+
+<h2>Contact Me</h2>
+
+<input type="text" name="name" placeholder="Your Name" required>
+
+<input type="text" name="subject" placeholder="Subject" required>
+
+<input type="email" name="email" placeholder="Your Email" required>
+
+<textarea name="message" placeholder="Your Message" required></textarea>
+
+<button type="submit">Send</button>
+
+</form>
+
+</body>
+</html>
