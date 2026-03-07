@@ -38,27 +38,22 @@
 
 </p>
 
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LEBRONGOAT2323&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LEBRONGOAT2323&theme=github_dark" />
+
 ![snake gif](https://github.com/LEBRONGOAT2323/LEBRONGOAT2323/blob/output/github-contribution-grid-snake-dark.svg)
 
----
-
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LEBRONGOAT2323&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LEBRONGOAT2323&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
----
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=LEBRONGOAT2323&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
 
 # 📈 Activity Graph
 
@@ -75,8 +70,8 @@
 📝 **HTML Editor**
 A browser-based editor with live preview.
 
-🎮 **Mini Among Us Game**
-JavaScript canvas game.
+🎮 **Goat**
+A website dedicated to me.
 
 🃏 **Clash Royale Card Finder**
 Search system with card images.
