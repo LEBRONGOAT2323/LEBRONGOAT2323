@@ -38,6 +38,8 @@
 
 </p>
 
+![snake gif](https://github.com/LEBRONGOAT2323/LEBRONGOAT2323/blob/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 # 📊 GitHub Stats
@@ -107,6 +109,3 @@ Always learning.
 Digital native on a cyber journey.
 ```
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/LEBRONGOAT2323/LEBRONGOAT2323/blob/output/github-contribution-grid-snake.svg)
