@@ -86,13 +86,21 @@ Search system with card images.
 
 ---
 
-# 🌐 Connect
+## 🌐 Connect
 
 <p align="center">
 
+<a href="https://github.com">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://discord.gg/wWgE8UFkEm">
 <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord"/>
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://LEBRONGOAT2323.github.io/contact.html">
+<img src="https://img.shields.io/badge/Contact-red?style=for-the-badge&logo=gmail">
+</a>
 
 </p>
 
