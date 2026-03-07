@@ -43,17 +43,22 @@
 ---
 
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LEBRONGOAT2323&show_icons=true&theme=onedark&hide_border=true&cache_seconds=86400">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LEBRONGOAT2323&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEBRONGOAT2323&layout=compact&theme=onedark&hide_border=true">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LEBRONGOAT2323&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=LEBRONGOAT2323&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
 
 # 📈 Activity Graph
 
@@ -61,14 +66,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LEBRONGOAT2323&theme=react-dark&hide_border=true"/>
 
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=LEBRONGOAT2323&theme=onedark&no-frame=true&row=1&column=7">
 </p>
 
 ---
