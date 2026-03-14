@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Hey+I'm+Harrison;Student+Developer;Cybersecurity+Enthusiast;Building+Cool+Stuff+on+GitHub" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Hey+I'm+LEBRONGOAT2323;Student+Developer;Cybersecurity+Enthusiast;Building+Cool+Stuff+on+GitHub" />
 
 </p>
 
@@ -67,8 +67,8 @@
 
 # 🚀 Current Projects
 
-📝 **HTML Editor**
-A browser-based editor with live preview.
+📝 **UNBLEEKED**
+A browser-based Unblocked Games site with tons of unblocked games.
 
 🎮 **Goat**
 A website dedicated to me.
