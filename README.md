@@ -15,8 +15,7 @@
 # 👨‍💻 About Me
 
 💻 Student developer building web projects
-🔐 Interested in cybersecurity and programming
-⚡ Learning **JavaScript, HTML, and CSS**
+⚡ Developer in **JavaScript, HTML, and CSS**
 
 ---
 
@@ -73,16 +72,15 @@ A browser-based Unblocked Games site with tons of unblocked games.
 🎮 **Goat**
 A website dedicated to me.
 
-🃏 **Clash Royale Card Finder**
-Search system with card images.
+🃏 **PHANTOM**
+A secret site in development.
 
 ---
 
 # 🧠 Fun Facts
 
 💻 Built projects using a **Chromebook**
-⚡ Loves experimenting with code
-🍟 Certified **French fry enjoyer**
+🍟 **French fries lowk good**
 
 ---
 
@@ -109,8 +107,6 @@ Search system with card images.
 # 🧠 Philosophy
 
 ```text
-Always building.
-Always learning.
-Digital native on a cyber journey.
+Rip Nikehub. Hello F*mboy Proxy.
 ```
 
