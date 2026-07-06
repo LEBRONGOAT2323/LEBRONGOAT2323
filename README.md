@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Hey+I'm+LEBRONGOAT2323;Student+Developer;Cybersecurity+Enthusiast;Building+Cool+Stuff+on+GitHub" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Hey+I'm+LEBRONGOAT2323;Student+Dev;CODER;Building+Cool+Stuff+on+GitHub" />
 
 </p>
 
@@ -14,8 +14,8 @@
 
 # 👨‍💻 About Me
 
-💻 Student developer building web projects
-⚡ Developer in **JavaScript, HTML, and CSS**
+Student dev building projects
+Developer in **JavaScript, HTML, and CSS**
 
 ---
 
@@ -69,18 +69,16 @@
 📝 **UNBLEEKED**
 A browser-based Unblocked Games site with tons of unblocked games.
 
-🎮 **Goat**
-A website dedicated to me.
-
 🃏 **PHANTOM**
 A secret site in development.
 
+🃏 **PHANTOM AI**
+A Work in development AI built for an all-new project. (In beta, made on a random Tuesday at 3am).
 ---
 
 # 🧠 Fun Facts
 
 💻 Built projects using a **Chromebook**
-🍟 **French fries lowk good**
 
 ---
 
