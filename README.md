@@ -72,8 +72,6 @@ A browser-based Unblocked Games site with tons of unblocked games.
 🃏 **PHANTOM**
 A secret site in development.
 
-🃏 **PHANTOM AI**
-A Work in development AI built for an all-new project. (In beta, made on a random Tuesday at 3am).
 ---
 
 # 🧠 Fun Facts
